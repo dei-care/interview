@@ -10,13 +10,6 @@ jobs:
       - run: docker build --target lint -t interview-lint -f docker/Dockerfile .
       - run: docker run interview-lint
 
-  resume:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      - run: docker build --target resume -t interview-resume -f docker/Dockerfile .
-      - run: docker run interview-resume
-
   coding:
     runs-on: ubuntu-latest
     steps:

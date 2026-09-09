@@ -1,10 +1,10 @@
-# gardusig/system-design
+# system-design
 
 Public **system design interview** reference — architecture examples, AWS drills, and topic notes.
 
 **Practice folder** — large-scale architecture, interview examples, AWS drills.
 
-**Hub checkout:** [`system-design/`](https://github.com/gardusig/interview/tree/main/system-design) in [gardusig/interview](https://github.com/gardusig/interview) · **Interview index:** [`../`](../) · **Siblings:** [`coding`](../coding/) · [`behavioral`](../behavioral/)
+**Hub checkout:** [`system-design/`](https://github.com/<OWNER>/interview/tree/main/system-design) in [<OWNER>/interview](https://github.com/<OWNER>/interview) · **Interview index:** [`../`](../) · **Siblings:** [`coding`](../coding/) · [`behavioral`](../behavioral/)
 
 ## 📇 Index
 
@@ -40,7 +40,6 @@ Use this split during system design prep:
 - **Reusable patterns**: [AWS reference layout](./topics/aws-reference-layout.md), [event-driven architecture](./topics/event-driven-architecture.md).
 - **Authoring or reviewing an example**: [`example-authoring-template.md`](./topics/example-authoring-template.md) (v3 contract for files under `examples/`); diagram palette: [`architecture-diagram-conventions.md`](./topics/architecture-diagram-conventions.md).
 - **Pull request CI** — external Docker pipelines (not in this repo)
-- **Release** — résumé PDF artifact via external CI
 
 ## 🗺️ Diagram
 

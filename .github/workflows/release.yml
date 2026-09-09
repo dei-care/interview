@@ -16,23 +16,6 @@ jobs:
         with:
           fetch-depth: 0
 
-      - run: docker build --target resume -t interview-resume -f docker/Dockerfile .
-      - run: docker run --name resume-build interview-resume
-      - name: Copy PDFs from container
-        run: |
-          mkdir -p artifacts
-          docker cp resume-build:/workspace/src/resume/. /tmp/resume-out/
-          docker rm resume-build
-          shopt -s nullglob
-          pdfs=(/tmp/resume-out/*.pdf)
-          if [[ ${#pdfs[@]} -eq 0 ]]; then
-            echo "No PDFs produced under /workspace/resume/" >&2
-            ls -la /tmp/resume-out/ >&2 || true
-            exit 1
-          fi
-          cp "${pdfs[@]}" artifacts/
-          ls -la artifacts/
-
       - name: Publish tag
         id: tag
         run: |
@@ -44,8 +27,6 @@ jobs:
       - uses: softprops/action-gh-release@v2
         with:
           tag_name: ${{ steps.tag.outputs.tag }}
-          files: artifacts/*.pdf
-          fail_on_unmatched_files: true
           generate_release_notes: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
