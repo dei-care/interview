@@ -1,10 +1,10 @@
-# gardusig/interview
+# interview
 
-Interview preparation monorepo — behavioral, system design, coding, and resumes.
+Interview preparation monorepo — behavioral, system design, and coding.
 
 ## Focus
 
-Three pillars (resume is a separate output produced from them):
+Three pillars:
 
 - **Behavioral** — work stories + reference prep guidance.
 - **System design** — architecture examples, patterns, AWS drills, runbooks.
@@ -17,7 +17,6 @@ Three pillars (resume is a separate output produced from them):
 | [`src/behavioral/`](src/behavioral/README.md) | Work stories + [`reference/`](src/behavioral/reference/README.md) prep guidance for behavioral rounds |
 | [`src/system-design/`](src/system-design/README.md) | Architecture examples, patterns, AWS drills, 60-minute runbooks |
 | [`src/coding/`](src/coding/README.md) | C++17 CP reference handbook, contest submissions |
-| [`src/resume/`](src/resume/README.md) | LaTeX resume versions for different roles/companies |
 | [`docs/ecosystem.md`](docs/ecosystem.md) | Repo → tech map of the whole ecosystem |
 
 ## Quick start
@@ -28,7 +27,4 @@ markdownlint '**/*.md' --ignore node_modules
 
 # Check links
 lychee '**/*.md' --exclude 'https://linkedin.com'
-
-# Compile a resume
-latexmk -pdf src/resume/general.tex
 ```
