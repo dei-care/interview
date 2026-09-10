@@ -23,12 +23,12 @@ Operating and improving **real systems**: peaks, constraints, incidents, alert n
 | 11 | How do you validate a change will not regress production? | Tests, canaries, metrics. |
 | 12 | How do you approach on-call responsibility? | Healthy: limits + fixes. |
 
-## Aligned stories
+## Example story shapes
 
-- Capacity planning and scaling for Black Friday traffic
-- Operating a live trading bot under exchange constraints
-- Improving multi-region deployment safety for Amazon Connect
-- Reducing on-call noise through root-cause fixes
+- **Peak-traffic capacity** — planning and load-testing for a known high-traffic event.
+- **Strict external constraints** — operating a live system under exchange/SLA/vendor limits you could not change.
+- **Multi-region deployment safety** — reducing the blast radius of regional changes and failover.
+- **On-call noise reduction** — fixing recurring root causes to cut pages/toil.
 
 ## Gaps and detail drills
 

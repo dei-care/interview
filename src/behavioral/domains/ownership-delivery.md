@@ -23,13 +23,13 @@ Interviewers want evidence you **drive outcomes** under real constraints: dates,
 | 11 | Tell me about juggling multiple deliverables; what did you ship first and why? | Links to prioritization domain too. |
 | 12 | How do you communicate risk when a date is at risk? | Process + one example. |
 
-## Aligned stories
+## Example story shapes
 
-- Delivering seller-facing invoice improvements under tight deadlines
-- Unblocking enterprise adoption by delivering a Go SDK from scratch
-- Stabilizing a high-risk public SDK release with proactive dependency alignment
+- **Deadline-driven delivery** — a user-facing improvement shipped under a tight date, with the scope cuts you chose and what you protected.
+- **From-scratch adoption enabler** — delivering a prerequisite (SDK/tool/service) a customer or partner needed before they could adopt.
+- **Risky release stabilization** — de-risking a high-visibility release by aligning dependencies and tightening the release process.
 
 ## Gaps and detail drills
 
 - **Drill:** one **date or window** per story, what slipped vs what held, and **one quant** (latency, tickets, adoption).
-- 2017 Algar: the role file is thin on behavioral sections—do not force a hero STAR; point interviewers to later roles if asked for “early ownership.”
+- Early-career note: if an early role is thin on behavioral sections, do not force a hero STAR; point interviewers to later work if asked for “early ownership.”

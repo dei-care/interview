@@ -2,26 +2,25 @@
 
 Behavioral interview prep — the method (STAR, competency domains, rehearsal) for leadership-principles / behavioral rounds.
 
-Role notes with facts, systems, and impact numbers are the **source of truth** and live in a **private repository**; story titles referenced below are plain text, not links.
+Keep your own story notes (facts, systems, impact numbers) separate; this folder is the **method**, not a copy of your résumé.
 
 ## Structure
 
 | Path | Role |
 | --- | --- |
-| [`rehearsal.md`](rehearsal.md) | STAR shape, session flow, boundaries when you lack a story |
-| [`domains/`](domains/README.md) | Competency banks + example prompts + story anchors |
-| [`prep/`](prep/question-story-matrix.md) | Question → story matrix, practice batches, frequency tiers, senior signals |
+| [`domains/`](domains/README.md) | Competency banks + example prompts + story shapes |
+| [`prep/`](prep/senior-signals-checklist.md) | Senior signals checklist + story recovery prompts |
 
 ## How to prepare (recommended order)
 
-1. **Inventory stories** — list 6–10 anchors you can defend (impact number, your decision, what you owned) from your private role notes.
-2. **Map domains** — for each competency in [`domains/`](domains/README.md), assign a **primary** and **backup** story ([question → story matrix](prep/question-story-matrix.md)).
-3. **Close gaps** — use [question batches](prep/question-batches.md) Section A and [story recovery prompts](prep/story-recovery-prompts.md) where you have no honest STAR.
-4. **Learn the delivery bar** — [rehearsal.md](rehearsal.md): STAR shape, anti-patterns, and what to do when you **do not** have a story.
-5. **Signal seniority** — [senior signals checklist](prep/senior-signals-checklist.md) and [frequency tiers](prep/frequency-tiers.md) (what interviewers ask most).
-6. **Company flavor** — [company prompt map](prep/company-prompt-map.md) before Amazon / Meta / etc. loops.
+1. **Inventory stories** — list 6–10 anchors you can defend (impact number, your decision, what you owned).
+2. **Map domains** — for each competency in [`domains/`](domains/README.md), assign a **primary** and **backup** story.
+3. **Close gaps** — use [story recovery prompts](prep/story-recovery-prompts.md) where you have no honest STAR.
+4. **Learn the delivery bar** — [STAR method](#star-method-compact) and [boundaries](#when-you-may-not-have-a-good-answer).
+5. **Signal seniority** — [senior signals checklist](prep/senior-signals-checklist.md).
+6. **Tailor to the company** — adapt emphasis and vocabulary to your target company; keep the core facts stable.
 7. **Rehearse out loud** — 2 minutes per story; interrupt yourself with “why you / what changed / what you’d do differently.”
-8. **Sensitive prompts last** — [sensitive-prompts.md](domains/sensitive-prompts.md) + rehearsal [boundaries](rehearsal.md#when-you-may-not-have-a-good-answer). Prefer a short honest boundary over fiction.
+8. **Sensitive prompts last** — [sensitive-prompts.md](domains/sensitive-prompts.md) + [boundaries](#when-you-may-not-have-a-good-answer). Prefer a short honest boundary over fiction.
 
 ## Session flow (day of)
 
@@ -31,21 +30,38 @@ Role notes with facts, systems, and impact numbers are the **source of truth** a
 | Deep dives (2–4 Qs) | One story each; ~2 minutes; STAR; loop back after interruptions. |
 | Your questions | Team expectations, delivery cadence—short and specific. |
 
-Details: [rehearsal.md](rehearsal.md).
+## STAR method (compact)
 
-## What’s in this folder
-
-| Path | Use it for |
+| Letter | You cover |
 | --- | --- |
-| [`rehearsal.md`](rehearsal.md) | STAR, flow, boundaries when you lack a story |
-| [`domains/`](domains/README.md) | Competency banks + example prompts + story anchors |
-| [`prep/question-story-matrix.md`](prep/question-story-matrix.md) | Primary / backup story per domain |
-| [`prep/question-batches.md`](prep/question-batches.md) | EN/PT practice batches (gaps, strongest, by domain) |
-| [`prep/frequency-tiers.md`](prep/frequency-tiers.md) | What tends to come up most |
-| [`prep/senior-signals-checklist.md`](prep/senior-signals-checklist.md) | Senior / staff behavioral signals |
-| [`prep/company-prompt-map.md`](prep/company-prompt-map.md) | Company-specific prompt flavors |
-| [`prep/star-bank.md`](prep/star-bank.md) | Compact STAR bank index |
-| [`prep/story-recovery-prompts.md`](prep/story-recovery-prompts.md) | Recover usable stories from thin notes |
+| **S**ituation | Where you were (team, product, constraint) in **one** sentence. |
+| **T**ask | What **you** were accountable for—not the whole org. |
+| **A**ction | **Decisions and work you did**, with tradeoffs (technical + people). |
+| **R**esult | **Outcome** (latency, incidents, revenue, adoption) and **what you learned** if relevant. |
+
+**Anti-patterns:** “We did…” with no **I**; no result; rambling setup; purely technical with no **ownership** or **judgment**.
+
+## When you may not have a good answer
+
+**Goal:** flag prompts where a **slick STAR** may be **impossible or inauthentic**—so you plan a **credible** response instead of panic or fabrication.
+
+| Situation | What usually works better than faking a hero story |
+| --- | --- |
+| **You never did that exact thing** (e.g. “Tell me about firing someone,” “Tell me about owning a P&L”) | One sentence: *I have not been in that exact role.* Then offer the **closest** situation you *did* own, or how you would **de-risk** it with manager/HR/legal input. |
+| **The honest story reflects badly on you** (you caused an outage, you avoided conflict too long) | **Own the mistake in one beat**, then spend 80% on **detection, mitigation, prevention**, and **what you do differently now**. Avoid blame-shifting to “the org.” |
+| **Legal / HR / health / compensation** | Brief boundary: *I can’t share details; here’s the professional takeaway* (process, escalation path, what you learned about communication). |
+| **“Biggest weakness” / “Why should we hire you?”** | Weak answers: humble-brag (“I work too hard”), generic strengths. Better: **one real gap** + **concrete mitigation** (coach, checklist, review habit), or **one differentiator** tied to their job description. |
+| **“Tell me about a time you disagreed with your manager”** | Trap if you sound **disloyal**. Better: **respect for authority** + **how you raised data**, **accepted decision**, **executed**, **revisited if metrics allowed**. If you truly have **no** instance, say so and use **peer** disagreement instead. |
+| **Proudest moment / greatest challenge** (too broad) | Easy to ramble = **no clear result**. Pick **one** story and **name the metric or decision** upfront. |
+
+**Early-career note:** if an early role is thin on behavioral stories, prefer being **honest** (“I don’t have a documented story from that period I’d defend in depth”) over inventing drama.
+
+## What good sounds like
+
+- **Specific** — names of systems (Kafka, DynamoDB, etc.) only when they clarify **your** decision; avoid buzzword soup.
+- **Measured result** — “cut p99 by ~40%” or “reduced pages/week” beats “made it faster.”
+- **Honest scope** — “I owned X; the team also did Y” builds credibility.
+- **When the story is thin** — “Here is what I **know** I did; here is what I **would** verify before claiming more” beats confident invention.
 
 ## Domain coverage
 
@@ -67,7 +83,7 @@ One file per family (plus sensitive prompts):
 
 ## Rules that keep prep honest
 
-- **No invented metrics** — if it is not in your private role notes, do not say it in the interview.
+- **No invented metrics** — if it is not in your own notes, do not say it in the interview.
 - **“I” over “we”** — name your decisions; credit the team once, briefly.
 - **One story per question** — do not merge three arcs mid-answer.
 - **Thin years are OK** — e.g. early career: say you lack a deep STAR rather than dramatize.

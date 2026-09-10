@@ -4,7 +4,7 @@
 
 ## What this probes
 
-Questions that are **easy to answer badly**: meta (weakness, why leave), ethics theater, manager conflict, DEI without substance, or experiences many ICs **never had**. Plan **short boundaries** + **nearby** stories where the old prep already did the work.
+Questions that are **easy to answer badly**: meta (weakness, why leave), ethics theater, manager conflict, DEI without substance, or experiences many ICs **never had**. Plan **short boundaries** + **nearby** stories.
 
 ## Example questions
 
@@ -29,19 +29,19 @@ Questions that are **easy to answer badly**: meta (weakness, why leave), ethics 
 
 | Prompt | Possible anchors (or “none”) |
 | --- | --- |
-| Disagreed with manager | Prefer **data-led** dissent + **commit after decision**: load testing gate or capacity framing; if **never**, say so and use **peer/TL** disagreement (Python SDK throughput). |
-| Ethical dilemma / cut corners | Often **no perfect story**—**process** answer: code review, escalation, stop-the-line; or safe testing without exchange as **risk-aware** behavior. |
-| Missed deadline | If you **lack** a good example: admit **narrowly** + **what changed** (buffer, earlier comms). Invoice deadlines **only** if truth matches—**do not** claim miss if you did not miss. |
-| PIP / firing / performance | “I have not owned a formal performance process; I *have* given **direct feedback** in 1:1s” + redirect, if closest fit: C++ onboarding / expectations or structured handoff under capacity pressure—**not** the same as running a PIP. |
-| DEI | Only **real** examples. If none: boundary + **inclusive code review and clear docs** + documentation friction if authentic. |
-| Why leaving / why here | Short **depth A/B/C** options + Brazil/health spine in live answers; still keep **two forward sentences**, no bitterness. |
-| Weakness | Habits not traits; e.g. underestimated cross-team latency + catalog dependency as what you changed. |
-| Failed customer / trust | If **no** strong story: boundary + closest **pain reduction** → on-call noise or SDK stability. |
-| Said no | Load testing gate; or profile page if scope negotiation is true. |
-| Difficult person | **Behavior** not character: conflicting priorities / slow responses + catalog. |
-| Non-engineer explanation | One mental diagram from Connect or Beyond; **30 seconds**, no jargon ladder. |
+| Disagreed with manager | Prefer **data-led** dissent + **commit after decision**: raise the risk with evidence; if **never**, say so and use **peer/TL** disagreement. |
+| Ethical dilemma / cut corners | Often **no perfect story**—**process** answer: code review, escalation, stop-the-line; or a risk-aware testing/rollback example. |
+| Missed deadline | If you **lack** a good example: admit **narrowly** + **what changed** (buffer, earlier comms). Use a real miss **only** if truth matches—**do not** claim one you did not have. |
+| PIP / firing / performance | “I have not owned a formal performance process; I *have* given **direct feedback** in 1:1s” + redirect to a mentoring/expectations story—**not** the same as running a PIP. |
+| DEI | Only **real** examples. If none: boundary + **inclusive code review and clear docs** + a documentation improvement if authentic. |
+| Why leaving / why here | Short **depth** options; keep **two forward sentences**, no bitterness. |
+| Weakness | Habits not traits; e.g. underestimated cross-team latency and what you changed. |
+| Failed customer / trust | If **no** strong story: boundary + closest **pain reduction** → recurring operator pain or public-interface stability. |
+| Said no | A quality-gate example; or a scope-negotiation story if true. |
+| Difficult person | **Behavior** not character: conflicting priorities / slow responses + a cross-team example. |
+| Non-engineer explanation | One mental diagram from your own system; **30 seconds**, no jargon ladder. |
 
 ## Gaps and detail drills
 
-- Keep [rehearsal boundary table](../rehearsal.md#when-you-may-not-have-a-good-answer) in muscle memory.
-- **2017 Algar:** the role file is thin on behavioral **###** stories; many early-career questions may have **no strong STAR** there. Prefer being **honest** over inventing drama.
+- Keep the [boundary table](../README.md#when-you-may-not-have-a-good-answer) in muscle memory.
+- **Early-career note:** if an early role is thin on behavioral stories, many early-career questions may have **no strong STAR** there. Prefer being **honest** over inventing drama.

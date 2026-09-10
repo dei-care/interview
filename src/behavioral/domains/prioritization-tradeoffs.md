@@ -23,13 +23,13 @@ Can you **choose** under finite time: features vs debt, evidence vs hope, scope 
 | 11 | Tell me about a time you had to choose between two urgent requests. | Clear decision criteria. |
 | 12 | How do you handle recurring interrupts vs deep work? | Process story OK if real. |
 
-## Aligned stories
+## Example story shapes
 
-- Making load testing a mandatory quality gate
-- Delivering a new public user profile page as a full-stack owner — scope negotiation / cuts if authentic
-- Capacity planning and scaling for Black Friday traffic
+- **Quality gate as a tradeoff** — making a quality practice (e.g. load testing) mandatory despite schedule pressure.
+- **Scope negotiation** — delivering a user-facing feature as a full-stack owner, with explicit cuts.
+- **Capacity vs cost** — planning for a peak event, balancing reliability and spend.
 
 ## Gaps and detail drills
 
-- **Drill:** for load-testing and profile stories, rehearse **what exactly was deprioritized**, **who signed off**, and **what evidence** you showed (graphs, error budgets, etc.).
-- If “missed deadline” is asked, see [sensitive-prompts](sensitive-prompts.md)—only use invoice story if truth matches.
+- **Drill:** for the quality-gate and scope stories, rehearse **what exactly was deprioritized**, **who signed off**, and **what evidence** you showed (graphs, error budgets, etc.).
+- If “missed deadline” is asked, see [sensitive-prompts](sensitive-prompts.md)—only use a real miss if truth matches.

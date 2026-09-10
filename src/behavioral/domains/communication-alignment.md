@@ -12,7 +12,7 @@
 | --- | --- | --- |
 | 1 | How do you keep stakeholders aligned on status? | Written rhythm. |
 | 2 | Tell me about writing for an audience that is not deeply technical. | One concrete artifact. |
-| 3 | When did documentation reduce confusion or onboarding time? | SDK docs story. |
+| 3 | When did documentation reduce confusion or onboarding time? | Documentation story. |
 | 4 | Async communication across time zones or teams—what works for you? | Habits + example. |
 | 5 | When did you simplify a complex topic for leadership? | 60–90 seconds max spoken. |
 | 6 | Tell me about a miscommunication you helped fix. | Your role in repair. |
@@ -23,12 +23,12 @@
 | 11 | Tell me about improving internal developer experience through communication. | Docs, examples, templates. |
 | 12 | How do you document decisions so the team does not re-litigate them? | ADR / design note. |
 
-## Aligned stories
+## Example story shapes
 
-- Reducing SDK onboarding friction through code-driven documentation
-- Unblocking large-scale catalog classification under cross-team dependencies — alignment / escalation
-- Enabling LinkedIn sharing with reliable achievement previews — clarifying external platform behavior and acceptance criteria for others
-- For **non-engineer explanation**, practice using Amazon Connect or Beyond HFT—pick **one** and stick (see [rehearsal.md](../rehearsal.md))
+- **Docs-driven onboarding** — reducing ramp friction with code-driven documentation.
+- **Cross-team alignment / escalation** — a stalled dependency where clear written alignment unblocked it.
+- **External platform clarity** — clarifying third-party platform behavior and acceptance criteria for others.
+- **Non-engineer explanation** — practice explaining one system in 30 seconds with a single analogy (see the [rehearsal section](../README.md#when-you-may-not-have-a-good-answer)).
 
 ## Gaps and detail drills
 

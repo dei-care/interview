@@ -4,7 +4,7 @@
 
 ## What this probes
 
-**Thrashing priorities**, reorgs, cancelled work, new constraints mid-flight—can you stay effective without sounding bitter? This domain was **not** a separate row in the old prep; mine real examples from role files or mark **TBD** until you add one.
+**Thrashing priorities**, reorgs, cancelled work, new constraints mid-flight—can you stay effective without sounding bitter? This domain may not map to a single story; use real examples from your notes or mark **TBD** until you have one.
 
 ## Example questions
 
@@ -21,23 +21,16 @@
 | 9 | Tell me about redoing work because assumptions changed. | No blame spiral. |
 | 10 | When did market or customer feedback change the plan mid-quarter? | If you have it. |
 | 11 | How do you stay productive in a high-churn environment? | Honest habits. |
-| 12 | Tell me about onboarding to a new domain quickly for a new assignment. | Can borrow Go SDK ramp with different framing. |
+| 12 | Tell me about onboarding to a new domain quickly for a new assignment. | Can reuse a ramp story with different framing. |
 
-## Aligned stories
+## Example story shapes
 
-**Issue #54 — change-driven anchors (primary + backup from `2021-fba` / `2024-gbl` / `2022-orkes` only):**
-
-- **Primary — reporting-line change** — Adapting to a manager change mid-tenure — **2021 · ~11 months** FBA Brazil shipment invoices. Authentic **external change**: new manager mid-tenure. Section already states **what changed externally**, **what was de-prioritized / re-scoped**, and **what was still delivered** (linked engineering outcomes: capacity, load-test gate, seller invoices).
-
-- **Backup — external collaboration + timeline pressure** — Unblocking large-scale catalog classification under cross-team dependencies — **2024** GBL. **External moving constraint**: neighboring product owner + stalled async follow-ups put catalog launch at risk. **Boundary:** not a leadership reprioritization or reorg; use for “plan changed mid-quarter / dependency reality shifted.”
-
-- **Backup — external adoption gate + time-box** — Unblocking enterprise adoption by delivering a Go SDK from scratch — **2022** Orkes. **External change**: enterprise required **Go SDK** as hard prerequisite (~4-week evaluation slice, ~3-month production path). **Boundary:** customer prerequisite, not internal reorg or leadership thrash.
-
-**Additional aligned anchors (outside #54’s three-file constraint):**
-
-- Navigating front-end ownership churn and an async replay handoff — **2019** Beyond: counterpart churn + stable UI boundary (**boundary:** small-team FE rotation, not company-wide reorg).
+- **Reporting-line change** — a new manager mid-tenure with the same charter; state **what changed externally**, **what was de-prioritized / re-scoped**, and **what was still delivered**.
+- **External collaboration + timeline pressure** — a neighboring owner plus stalled async follow-ups put a launch at risk; use for “plan changed mid-quarter / dependency reality shifted.”
+- **External adoption gate + time-box** — a customer or partner required a hard prerequisite within a fixed evaluation window; a customer prerequisite, not an internal reorg.
+- **Ownership churn / handoff** — a counterpart rotated out and you kept a stable boundary through an async handoff; a small-team rotation, not a company-wide reorg.
 
 ## Gaps and detail drills
 
-- **Residual gap:** no dedicated story yet for **sudden leadership priority flip**, **cancelled epic after heavy investment**, or **policy-forced pivot** — answer with **closest authentic anchor** + explicit boundary (catalog = dependency/launch risk; Go = customer gate; FBA manager = reporting-line change only).
-- **AWS tenure / why leave / short tenure** (meta, not STAR): keep answers short and forward-looking; technical Connect stories stay in Amazon Connect (2025).
+- **Residual gap:** if you have no dedicated story for a **sudden leadership priority flip**, **cancelled epic after heavy investment**, or **policy-forced pivot**—answer with the **closest authentic shape** + an explicit boundary (dependency/launch risk; customer gate; reporting-line change only).
+- **Short tenure / why leave** (meta, not STAR): keep answers short and forward-looking; keep technical stories in their own domain.

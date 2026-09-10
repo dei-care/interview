@@ -16,18 +16,18 @@ Helping **others** ship and ramp: pairing, clear expectations, reviews as teachi
 | 4 | Tell me about knowledge sharing that scaled beyond one person. | Doc, talk, tool. |
 | 5 | How do you use code review as mentoring? | Specific review example. |
 | 6 | When did you give constructive feedback that helped someone improve? | Boundary if none. |
-| 7 | Tell me about an onboarding checklist or doc you created or improved. | Pick one Beyond ramp (C++, Python pipeline, or FE) below. |
+| 7 | Tell me about an onboarding checklist or doc you created or improved. | Pick one ramp story below. |
 | 8 | When did you hand off ownership cleanly? | Transition plan. |
 | 9 | When did you set expectations with a struggling peer (without being their manager)? | Tact + escalation awareness. |
 | 10 | Tell me about teaching a concept that finally clicked for someone. | Technique you used. |
 | 11 | How do you help others debug without taking over their keyboard forever? | Short pairing story. |
 | 12 | When did you set expectations for a new owner? | Handoff + docs. |
 
-## Aligned stories
+## Example story shapes
 
-- Clojure SDK, calendar limits, and a mentoring handoff — **Handoff / pairing / “reset with manager”:** structured context transfer to a teammate when a **sixth-language** track plus calendar overload made solo ownership unrealistic; **non-overlap** with Beyond: customer SDKs and **remote** checkpoints, not trading-domain ramp. Strong for **clean ownership transfer**, **expectations with manager**, and **debugging help without heroics** prompts.
-- Onboarding a Python engineer into market-data and strategy-evaluation — **Pipeline / “data science side” ramp:** Python-first contribution to **ingest → ETL → consumer / evaluator** context and replay-driven decisions; **non-overlap** with C++ story (different surface and hire profile). Strong for **knowledge sharing beyond one person**, **short pairing**, and **handoff quality** where the lever was **bounded tasks + review-as-teaching**.
-- Navigating front-end ownership churn and an async replay handoff — **FE + API contracts + local iteration:** explicit **WebSocket/HTTP** boundaries, rotation briefs, and **build/run/deploy** orientation so new UI owners were not blocked on tacit env knowledge; **non-overlap** with pipeline story (UI seat vs. Lambda/consumer path). Strong for **unblock a teammate**, **short pairing**, and **handoff quality**.
+- **Structured handoff** — context transfer to a teammate when a hard learning track plus calendar overload made solo ownership unrealistic; strong for **clean ownership transfer** and **expectations with your manager**.
+- **Pipeline / domain ramp** — onboarding someone into a data pipeline or evaluation context with bounded tasks and review-as-teaching; strong for **knowledge sharing beyond one person** and **short pairing**.
+- **Ownership churn / contracts** — explicit interface boundaries plus rotation briefs so a new owner was not blocked on tacit environment knowledge; strong for **unblocking a teammate** and **handoff quality**.
 
 ## Gaps and detail drills
 
