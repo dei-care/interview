@@ -27,24 +27,24 @@
 
 **Primary (failure / learning, interview-safe):**
 
-- [Load testing integration: blocked path, expectation reset, and discovery](../../work-experience/2021-amazon-fba.md#load-testing-integration-blocked-path-expectation-reset-and-discovery) — **2021 · Amazon FBA.** Blocker was **my knowledge gap** plus **thin docs** for our layout; I **mis-ordered actions** under uncertainty until I forced a discovery sequence; **manager + renegotiated “done”**, parallel delivery, **internal code/repo** found older config pattern; **after:** ordered next steps in writing, sibling-repo evidence, honest calendar vs. effort.
+- Load testing integration: blocked path, expectation reset, and discovery — **2021 · Amazon FBA.** Blocker was **my knowledge gap** plus **thin docs** for our layout; I **mis-ordered actions** under uncertainty until I forced a discovery sequence; **manager + renegotiated “done”**, parallel delivery, **internal code/repo** found older config pattern; **after:** ordered next steps in writing, sibling-repo evidence, honest calendar vs. effort.
 
 **Backup (deadline / capacity / “too much in flight”):**
 
-- [Clojure SDK, calendar limits, and a mentoring handoff](../../work-experience/2022-orkes-sdk.md#clojure-sdk-calendar-limits-and-a-mentoring-handoff) — **~first year · Orkes.** Go deep work vs. **sixth language (Clojure)** where I was weaker; **parallel personal venture** broke time organization; **manager transparency** and **mentored handoff** to eager teammate completed work; **after:** cap parallel hard-learning lanes, clearer side-work boundaries (side business since exited).
+- Clojure SDK, calendar limits, and a mentoring handoff — **~first year · Orkes.** Go deep work vs. **sixth language (Clojure)** where I was weaker; **parallel personal venture** broke time organization; **manager transparency** and **mentored handoff** to eager teammate completed work; **after:** cap parallel hard-learning lanes, clearer side-work boundaries (side business since exited).
 
 **Technical ramp (same company, different prompt — “not the expert” without calendar arc):**
 
-- [Unblocking enterprise adoption by delivering a Go SDK from scratch](../../work-experience/2022-orkes-sdk.md#unblocking-enterprise-adoption-by-delivering-a-go-sdk-from-scratch) — limited prior Go; phased plan, tests, customer feedback, scope discipline.
+- Unblocking enterprise adoption by delivering a Go SDK from scratch — limited prior Go; phased plan, tests, customer feedback, scope discipline.
 
 **Customer contract / semver (same company — breaking upgrades, process failure):**
 
-- [Public API hygiene: assumed low adoption, fast cleanup, and upgrade pain](../../work-experience/2022-orkes-sdk.md#public-api-hygiene-assumed-low-adoption-fast-cleanup-and-upgrade-pain) — **Orkes.** Assumed **low adoption** while **cleaning repo** and pushing **release automation**; skipped **doc links + public-surface** review; **force-push / rebase** on shared history hurt **upgraders**; **after:** tests over **every public entry point**, **deprecate-then-remove**, release checklist for docs, **protected default / no rewrite** on customer-tracked branches.
+- Public API hygiene: assumed low adoption, fast cleanup, and upgrade pain — **Orkes.** Assumed **low adoption** while **cleaning repo** and pushing **release automation**; skipped **doc links + public-surface** review; **force-push / rebase** on shared history hurt **upgraders**; **after:** tests over **every public entry point**, **deprecate-then-remove**, release checklist for docs, **protected default / no rewrite** on customer-tracked branches.
 
 **Also aligned (not primary failure shape):**
 
-- [Reducing on-call noise through root-cause fixes](../../work-experience/2021-amazon-fba.md#reducing-on-call-noise-through-root-cause-fixes) — mitigation / recurring pain; **not** a classic “I broke prod” unless you truly own that arc
-- [Accelerating onboarding in a large C++ codebase](../../work-experience/2019-beyond-hft.md#accelerating-onboarding-in-a-large-c-codebase) — learning / enabling others overlap; optional backup if you want an earlier-career “outside comfort zone” variant
+- Reducing on-call noise through root-cause fixes — mitigation / recurring pain; **not** a classic “I broke prod” unless you truly own that arc
+- Accelerating onboarding in a large C++ codebase — learning / enabling others overlap; optional backup if you want an earlier-career “outside comfort zone” variant
 
 ## Interview framing (first 20–30 seconds)
 

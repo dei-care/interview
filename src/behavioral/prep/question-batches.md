@@ -14,7 +14,7 @@ Domains where the matrix marks **Gap = yes**. Lead with **short boundary** when 
 
 | EN (prompt family) | PT (família de pergunta) | Primary | Backup |
 | --- | --- | --- | --- |
-| Sudden priority shift from leadership; reorg; cancelled work after heavy investment | Mudança súbita de prioridade; reorg; projeto cancelado depois de muito esforço | [FBA manager change](../../work-experience/2021-amazon-fba.md#adapting-to-a-manager-change-mid-tenure) (reporting line—not org-wide reorg) | [GBL catalog dependency](../../work-experience/2024-aws-gbl.md#unblocking-large-scale-catalog-classification-under-cross-team-dependencies) |
+| Sudden priority shift from leadership; reorg; cancelled work after heavy investment | Mudança súbita de prioridade; reorg; projeto cancelado depois de muito esforço | FBA manager change (reporting line—not org-wide reorg) | GBL catalog dependency |
 
 **Boundary (EN):** “I don’t have a clean ‘leadership flipped the roadmap’ story; closest is **manager handoff** (FBA) or **launch risk driven by a partner team** (GBL), with what changed externally spelled in-file.”
 
@@ -24,7 +24,7 @@ Domains where the matrix marks **Gap = yes**. Lead with **short boundary** when 
 
 | EN | PT | Primary | Backup |
 | --- | --- | --- | --- |
-| Failed a customer; lost trust; mis-set expectations | Falhei com cliente; perda de confiança; expectativa errada | [Seller-facing invoices](../../work-experience/2021-amazon-fba.md#delivering-seller-facing-invoice-improvements-under-tight-deadlines) | [LinkedIn previews](../../work-experience/2024-aws-gbl.md#enabling-linkedin-sharing-with-reliable-achievement-previews) |
+| Failed a customer; lost trust; mis-set expectations | Falhei com cliente; perda de confiança; expectativa errada | Seller-facing invoices | LinkedIn previews |
 
 **Boundary (EN):** “No single dramatic ‘trust break’ STAR—closest is **reducing recurring pain** (on-call) or **SDK stability**; I’d name limits before claiming a big customer failure.”
 

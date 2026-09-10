@@ -25,10 +25,10 @@
 
 ## Aligned stories
 
-- [Reducing SDK onboarding friction through code-driven documentation](../../work-experience/2022-orkes-sdk.md#reducing-sdk-onboarding-friction-through-code-driven-documentation)
-- [Unblocking large-scale catalog classification under cross-team dependencies](../../work-experience/2024-aws-gbl.md#unblocking-large-scale-catalog-classification-under-cross-team-dependencies) — alignment / escalation
-- [Enabling LinkedIn sharing with reliable achievement previews](../../work-experience/2024-aws-gbl.md#enabling-linkedin-sharing-with-reliable-achievement-previews) — clarifying external platform behavior and acceptance criteria for others
-- For **non-engineer explanation**, practice using [Amazon Connect](../../work-experience/2025-aws-connect.md) or [Beyond HFT](../../work-experience/2019-beyond-hft.md)—pick **one** and stick (see [rehearsal.md](../rehearsal.md))
+- Reducing SDK onboarding friction through code-driven documentation
+- Unblocking large-scale catalog classification under cross-team dependencies — alignment / escalation
+- Enabling LinkedIn sharing with reliable achievement previews — clarifying external platform behavior and acceptance criteria for others
+- For **non-engineer explanation**, practice using Amazon Connect or Beyond HFT—pick **one** and stick (see [rehearsal.md](../rehearsal.md))
 
 ## Gaps and detail drills
 

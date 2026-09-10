@@ -25,9 +25,9 @@ Work through **others** without authority: peers, PMs, partner teams, slow stake
 
 ## Aligned stories
 
-- [Unblocking large-scale catalog classification under cross-team dependencies](../../work-experience/2024-aws-gbl.md#unblocking-large-scale-catalog-classification-under-cross-team-dependencies)
-- [Reducing SDK onboarding friction through code-driven documentation](../../work-experience/2022-orkes-sdk.md#reducing-sdk-onboarding-friction-through-code-driven-documentation)
-- [Scaling from one SDK to a cross-language SDK ecosystem](../../work-experience/2022-orkes-sdk.md#scaling-from-one-sdk-to-a-cross-language-sdk-ecosystem) — **IC ownership and influence without authority** (replaces generic “leadership” label)
+- Unblocking large-scale catalog classification under cross-team dependencies
+- Reducing SDK onboarding friction through code-driven documentation
+- Scaling from one SDK to a cross-language SDK ecosystem — **IC ownership and influence without authority** (replaces generic “leadership” label)
 
 ## Gaps and detail drills
 

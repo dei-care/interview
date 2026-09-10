@@ -25,11 +25,11 @@ Interviewers want evidence you **drive outcomes** under real constraints: dates,
 
 ## Aligned stories
 
-- [Delivering seller-facing invoice improvements under tight deadlines](../../work-experience/2021-amazon-fba.md#delivering-seller-facing-invoice-improvements-under-tight-deadlines)
-- [Unblocking enterprise adoption by delivering a Go SDK from scratch](../../work-experience/2022-orkes-sdk.md#unblocking-enterprise-adoption-by-delivering-a-go-sdk-from-scratch)
-- [Stabilizing a high-risk public SDK release with proactive dependency alignment](../../work-experience/2025-aws-connect.md#stabilizing-a-high-risk-public-sdk-release-with-proactive-dependency-alignment)
+- Delivering seller-facing invoice improvements under tight deadlines
+- Unblocking enterprise adoption by delivering a Go SDK from scratch
+- Stabilizing a high-risk public SDK release with proactive dependency alignment
 
 ## Gaps and detail drills
 
 - **Drill:** one **date or window** per story, what slipped vs what held, and **one quant** (latency, tickets, adoption).
-- [2017 Algar](../../work-experience/2017-algar-telecom.md): thin behavioral sections—do not force a hero STAR; point interviewers to later roles if asked for “early ownership.”
+- 2017 Algar: the role file is thin on behavioral sections—do not force a hero STAR; point interviewers to later roles if asked for “early ownership.”

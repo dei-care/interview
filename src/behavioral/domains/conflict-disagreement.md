@@ -25,8 +25,8 @@ Can you **disagree constructively**: use data, respect roles, commit after decis
 
 ## Aligned stories
 
-- [Making load testing a mandatory quality gate](../../work-experience/2021-amazon-fba.md#making-load-testing-a-mandatory-quality-gate)
-- [Improving Python SDK throughput with data-driven concurrency decisions](../../work-experience/2022-orkes-sdk.md#improving-python-sdk-throughput-with-data-driven-concurrency-decisions)
+- Making load testing a mandatory quality gate
+- Improving Python SDK throughput with data-driven concurrency decisions
 
 ## Gaps and detail drills
 

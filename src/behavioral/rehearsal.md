@@ -4,7 +4,7 @@
 
 ## What this file is for
 
-**Rehearsal aid** for recruiter / HM behavioral rounds: predictable **themes**, **STAR-shaped** answers, and **deep links** into per-role files under [`../work-experience/`](../work-experience/README.md). **Source of truth** for facts and impact numbers stays in each `YYYY-<slug>.md`—do not duplicate long narratives here.
+**Rehearsal aid** for recruiter / HM behavioral rounds: predictable **themes**, **STAR-shaped** answers, and references to per-role files in your private repository. **Source of truth** for facts and impact numbers stays in each role note—do not duplicate long narratives here.
 
 Some questions are **designed to surface judgment under ambiguity** or **topics you never experienced**; forcing a polished STAR when you do not have one usually **hurts more than a short honest boundary** plus a **nearby** story.
 
@@ -38,9 +38,9 @@ If they interrupt for **clarifying detail**, answer and **loop back** to Result 
 | **Legal / HR / health / compensation** | Brief boundary: *I can’t share details; here’s the professional takeaway* (process, escalation path, what you learned about communication). |
 | **“Biggest weakness” / “Why should we hire you?”** | Weak answers: humble-brag (“I work too hard”), generic strengths. Better: **one real gap** + **concrete mitigation** (coach, checklist, review habit), or **one differentiator** tied to their job description. |
 | **“Tell me about a time you disagreed with your manager”** | Trap if you sound **disloyal**. Better: **respect for authority** + **how you raised data**, **accepted decision**, **executed**, **revisited if metrics allowed**. If you truly have **no** instance, say so and use **peer** disagreement instead. |
-| **Proudest moment / greatest challenge** (too broad) | Easy to ramble = **no clear result**. Pick **one** story from the [work experience index](../work-experience/README.md#story-links-by-year) and **name the metric or decision** upfront. |
+| **Proudest moment / greatest challenge** (too broad) | Easy to ramble = **no clear result**. Pick **one** story from your private role notes and **name the metric or decision** upfront. |
 
-**2017 Algar note:** [`work-experience/2017-algar-telecom.md`](../work-experience/2017-algar-telecom.md) is thin on behavioral **###** stories—many “early career / inventory” questions may have **no strong STAR** there. Prefer being **honest** (“I don’t have a documented story from that year I’d defend in depth”) over inventing drama.
+**2017 Algar note:** the 2017 role file is thin on behavioral **###** stories—many “early career / inventory” questions may have **no strong STAR** there. Prefer being **honest** (“I don’t have a documented story from that year I’d defend in depth”) over inventing drama.
 
 ## What good sounds like
 
@@ -59,6 +59,5 @@ Theme tables, example prompts, and story anchors live in [`domains/`](domains/RE
 
 - [Question → story matrix](prep/question-story-matrix.md)
 - [Question batches (EN/PT)](prep/question-batches.md)
-- [Work experience index](../work-experience/README.md)
-- [System design hub](../../system-design/README.md)
+- [System design hub](../system-design/README.md)
 - [Interview prep hub](../../README.md)

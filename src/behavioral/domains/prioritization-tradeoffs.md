@@ -25,9 +25,9 @@ Can you **choose** under finite time: features vs debt, evidence vs hope, scope 
 
 ## Aligned stories
 
-- [Making load testing a mandatory quality gate](../../work-experience/2021-amazon-fba.md#making-load-testing-a-mandatory-quality-gate)
-- [Delivering a new public user profile page as a full-stack owner](../../work-experience/2024-aws-gbl.md#delivering-a-new-public-user-profile-page-as-a-full-stack-owner) — scope negotiation / cuts if authentic
-- [Capacity planning and scaling for Black Friday traffic](../../work-experience/2021-amazon-fba.md#capacity-planning-and-scaling-for-black-friday-traffic)
+- Making load testing a mandatory quality gate
+- Delivering a new public user profile page as a full-stack owner — scope negotiation / cuts if authentic
+- Capacity planning and scaling for Black Friday traffic
 
 ## Gaps and detail drills
 

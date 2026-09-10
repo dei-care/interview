@@ -25,10 +25,10 @@ Can you **reduce fuzziness**: clarify success, shrink unknowns, align owners, an
 
 ## Aligned stories
 
-- [Unblocking large-scale catalog classification under cross-team dependencies](../../work-experience/2024-aws-gbl.md#unblocking-large-scale-catalog-classification-under-cross-team-dependencies)
-- [Implementing FIX protocol integration and custom message handling](../../work-experience/2019-beyond-hft.md#implementing-fix-protocol-integration-and-custom-message-handling)
+- Unblocking large-scale catalog classification under cross-team dependencies
+- Implementing FIX protocol integration and custom message handling
 
 ## Gaps and detail drills
 
 - **Drill:** catalog story — **timeline**, **escalation path**, and **options** you presented when ownership was unclear.
-- Re-read [catalog](../../work-experience/2024-aws-gbl.md#unblocking-large-scale-catalog-classification-under-cross-team-dependencies) section before interviews to remember **one concrete sync or artifact**.
+- Re-read catalog section before interviews to remember **one concrete sync or artifact**.

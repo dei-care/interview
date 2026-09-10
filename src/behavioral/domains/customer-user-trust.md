@@ -25,10 +25,10 @@ Who **felt** the outcome: external users, internal customers, sellers? Can you c
 
 ## Aligned stories
 
-- [Delivering seller-facing invoice improvements under tight deadlines](../../work-experience/2021-amazon-fba.md#delivering-seller-facing-invoice-improvements-under-tight-deadlines)
-- [Reducing on-call noise through root-cause fixes](../../work-experience/2021-amazon-fba.md#reducing-on-call-noise-through-root-cause-fixes) — “internal customer” / operator pain if framed carefully
-- [Stabilizing a high-risk public SDK release with proactive dependency alignment](../../work-experience/2025-aws-connect.md#stabilizing-a-high-risk-public-sdk-release-with-proactive-dependency-alignment)
-- [Enabling LinkedIn sharing with reliable achievement previews](../../work-experience/2024-aws-gbl.md#enabling-linkedin-sharing-with-reliable-achievement-previews)
+- Delivering seller-facing invoice improvements under tight deadlines
+- Reducing on-call noise through root-cause fixes — “internal customer” / operator pain if framed carefully
+- Stabilizing a high-risk public SDK release with proactive dependency alignment
+- Enabling LinkedIn sharing with reliable achievement previews
 
 ## Gaps and detail drills
 

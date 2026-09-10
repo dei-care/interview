@@ -25,9 +25,9 @@ Raising or defending **quality under pressure**: testing, reviews, safe environm
 
 ## Aligned stories
 
-- [Making load testing a mandatory quality gate](../../work-experience/2021-amazon-fba.md#making-load-testing-a-mandatory-quality-gate)
-- [Building a safe testing environment without exchange access](../../work-experience/2019-beyond-hft.md#building-a-safe-testing-environment-without-exchange-access)
-- [Stabilizing a high-risk public SDK release with proactive dependency alignment](../../work-experience/2025-aws-connect.md#stabilizing-a-high-risk-public-sdk-release-with-proactive-dependency-alignment)
+- Making load testing a mandatory quality gate
+- Building a safe testing environment without exchange access
+- Stabilizing a high-risk public SDK release with proactive dependency alignment
 
 ## Gaps and detail drills
 
