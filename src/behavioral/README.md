@@ -2,7 +2,7 @@
 
 Behavioral interview prep — the method (STAR, competency domains, rehearsal) for leadership-principles / behavioral rounds.
 
-Keep your own story notes (facts, systems, impact numbers) separate; this folder is the **method**, not a copy of your résumé.
+Keep your own story notes (facts, systems, impact numbers) separate; this folder is the **method**, not a copy of your story notes.
 
 ## Structure
 
@@ -26,7 +26,7 @@ Keep your own story notes (facts, systems, impact numbers) separate; this folder
 
 | Phase | Aim |
 | --- | --- |
-| Warm-up (60–90s) | Roles + themes you want probed—not a full résumé dump. |
+| Warm-up (60–90s) | Roles + themes you want probed—not a full career-history dump. |
 | Deep dives (2–4 Qs) | One story each; ~2 minutes; STAR; loop back after interruptions. |
 | Your questions | Team expectations, delivery cadence—short and specific. |
 

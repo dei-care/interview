@@ -18,7 +18,7 @@ Interviewers want evidence you **drive outcomes** under real constraints: dates,
 | 6 | How do you handle “this must ship” pressure? | Tradeoffs explicit. |
 | 7 | When did you take responsibility for something outside your job description? | One sentence boundary if never true. |
 | 8 | Tell me about a time you committed to a date and kept it. | Numbers help. |
-| 9 | What is the most impactful thing you shipped? | Pick one; avoid résumé dump. |
+| 9 | What is the most impactful thing you shipped? | Pick one; avoid a full career dump. |
 | 10 | When did you fix a problem no one else wanted to own? | On-call / ops stories often fit. |
 | 11 | Tell me about juggling multiple deliverables; what did you ship first and why? | Links to prioritization domain too. |
 | 12 | How do you communicate risk when a date is at risk? | Process + one example. |
