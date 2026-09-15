@@ -15,4 +15,4 @@ fi
 
 echo "Linting ${#files[@]} markdown files..."
 markdownlint "${files[@]}"
-lychee "${files[@]}" --exclude 'https://linkedin.com'
+lychee "${files[@]}"
