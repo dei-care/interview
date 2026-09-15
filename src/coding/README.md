@@ -56,8 +56,8 @@ Every `.cpp` under `coding/` (flags from this README):
 
 ```bash
 # Local / CI (Docker)
-docker build --target coding -t interview-coding -f .github/docker/Dockerfile .
-docker run interview-coding
+docker build --target coding -t problem-solving-coding -f docker/Dockerfile .
+docker run problem-solving-coding
 
 # Or directly
 ./.github/scripts/compile-coding.sh
