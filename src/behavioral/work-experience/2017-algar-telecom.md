@@ -126,5 +126,4 @@ For full STAR drills, rehearse from [`../reference/rehearsal.md`](../reference/r
 ## 🔗 Related
 
 - [Work experience index](./README.md)
-- [System design hub](https://github.com/<OWNER>/system-design)
 - [Interview prep hub](../../README.md)

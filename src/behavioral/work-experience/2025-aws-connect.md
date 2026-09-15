@@ -362,6 +362,4 @@ Ensure reliable, deterministic multi-region deployments while reducing operation
 ## 🔗 Related
 
 - [Work experience index](./README.md)
-- [Work experience index](./README.md)
-- [System design hub](https://github.com/<OWNER>/system-design)
 - [Interview prep hub](../../README.md)

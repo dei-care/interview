@@ -288,5 +288,4 @@ This is **counterpart / ownership churn on a small team**, not a documented comp
 ## 🔗 Related
 
 - [Work experience index](./README.md)
-- [System design hub](https://github.com/<OWNER>/system-design)
 - [Interview prep hub](../../README.md)
