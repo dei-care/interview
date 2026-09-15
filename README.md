@@ -1,27 +1,22 @@
 # problem-solving
 
-Interview preparation for the problem-solving side — behavioral stories and a C++17 competitive-programming reference.
+C++17 **competitive-programming** archive — algorithm templates plus accepted contest solutions.
 
-## Focus
+## Layout
 
-Two pillars:
-
-- **Behavioral** — work stories + reference prep guidance.
-- **Coding** — C++17 CP reference handbook, contest submissions.
-
-## Sections
-
-| Path | Content |
+| Path | Role |
 | --- | --- |
-| [`src/behavioral/`](src/behavioral/README.md) | Work stories + [`reference/`](src/behavioral/reference/README.md) prep guidance for behavioral rounds |
-| [`src/coding/`](src/coding/README.md) | C++17 CP reference handbook, contest submissions |
+| [`src/coding/reference/`](src/coding/reference/) | Handbook-style templates (graphs, DP, strings, math, data structures) |
+| [`src/coding/solved/`](src/coding/solved/) | Accepted solutions by platform (`{platform}/{slug}.cpp`) |
 
 ## Quick start
 
 ```bash
-# Lint all markdown
-markdownlint '**/*.md' --ignore node_modules
+# Compile every .cpp under src/coding/
+./.github/scripts/compile-coding.sh
 
-# Check links
-lychee '**/*.md' --exclude 'https://linkedin.com'
+# Single file
+g++ -std=c++17 -O2 -Wall src/coding/reference/graphs/shortest-path.cpp
 ```
+
+Format: `clang-format -i src/coding/**/*.cpp`
