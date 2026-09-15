@@ -7,12 +7,13 @@ How the repositories relate to the toolchains they run on. Every language is the
 ```mermaid
 flowchart LR
     subgraph REPOS[Repositories]
-        PRIV[0-private]
-        CP[1-control-plane]
-        INT[2-interview]
+        PKG[1-pkg-manager]
+        DS[2-data-science]
         EXT[3-browser-extensions]
-        RADAR[4-radar-alerts]
-        GAMES[5-browser-games]
+        AUTO[4-automation]
+        PS[5-problem-solving]
+        GAMES[6-browser-games]
+        SD[7-system-design]
     end
 
     subgraph TOOLS[Toolchains]
@@ -20,43 +21,49 @@ flowchart LR
         BASH[Bash]
         DOCKER[Docker]
         CPP[C++17]
+        LA[LaTeX]
+        MERMAID[Mermaid]
         TS[TypeScript]
         VJS[Vanilla JS]
-        GO[Go]
         PY[Python]
+        PANDAS[Pandas]
         REACT[React]
         RUSTW[Rust / WASM]
-        RUSTB[Rust backend]
     end
 
-    PRIV --> MD
-    CP --> BASH
-    CP --> DOCKER
-    INT --> MD
-    INT --> CPP
+    PKG --> BASH
+    PKG --> DOCKER
+    DS --> PY
+    DS --> PANDAS
+    DS --> VJS
     EXT --> TS
     EXT --> VJS
-    RADAR --> GO
-    RADAR --> PY
-    RADAR --> VJS
+    AUTO --> BASH
+    AUTO --> DOCKER
+    PS --> MD
+    PS --> CPP
+    PS --> LA
+    PS --> MERMAID
     GAMES --> RUSTW
-    GAMES --> RUSTB
     GAMES --> REACT
     GAMES --> TS
+    SD --> MD
+    SD --> MERMAID
 
     classDef repo fill:#e8f5e9,#66bb6a,stroke:#2e7d32,color:#111
     classDef tool fill:#e3f2fd,#42a5f5,stroke:#1565c0,color:#111
-    class PRIV,CP,INT,EXT,RADAR,GAMES repo
-    class MD,BASH,DOCKER,CPP,TS,VJS,GO,PY,REACT,RUSTW,RUSTB tool
+    class PKG,DS,EXT,AUTO,PS,GAMES,SD repo
+    class MD,BASH,DOCKER,CPP,LA,MERMAID,TS,VJS,PY,PANDAS,REACT,RUSTW tool
 ```
 
 ## Repo → tools
 
 | Repo | Tools | Why |
 |---|---|---|
-| 0-private | Markdown · PDF · images | Heavy note-taking vault — content as plain text, versionable and diffable. |
-| 1-control-plane | Bash · Docker · YAML · Markdown | The shell is the interface; one pinned docker image per toolchain. |
-| 2-interview | Markdown · C++17 · LaTeX · Mermaid | Interview prep — notes + CP baseline + behavioral/system-design reference; mermaid for architecture. |
+| 1-pkg-manager | Bash · Docker · YAML · Markdown | The shell is the interface; one pinned Docker image per language toolchain. |
+| 2-data-science | Python · Pandas · Vanilla JS | Collect and analyze stock market, lottery, and news data; render static dashboards. |
 | 3-browser-extensions | TypeScript · Vanilla JS · Vite | Typed JS for the browser runtime, ships without a server. |
-| 4-radar-alerts | Go · Python · Vanilla JS · Docker Compose | Go for the pipeline, Python for scraping, plain JS for the static UI. |
-| 5-browser-games | Rust/WASM · Rust backend · React · TypeScript · Tailwind | One Rust codebase from engine (WASM) to backend; React where a SPA earns it. |
+| 4-automation | Bash · YAML · Markdown | Reusable dispatch stages and status tooling. |
+| 5-problem-solving | Markdown · C++17 · LaTeX · Mermaid | Competitive-programming reference + behavioral prep. |
+| 6-browser-games | Rust/WASM · React · TypeScript | One Rust codebase from engine (WASM) to backend; React where a SPA earns it. |
+| 7-system-design | Markdown · Mermaid | Architecture examples, patterns, AWS drills, and 60-minute runbooks. |
