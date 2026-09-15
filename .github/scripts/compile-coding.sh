@@ -1,22 +1,22 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-# Compile every .cpp under coding/ (C++17 competitive-programming templates + solutions).
-# Flags match coding/README.md: g++ -std=c++17 -O2 -Wall
+# Compile every .cpp under src/coding/ (C++17 competitive-programming templates + solutions).
+# Flags match src/coding/README.md: g++ -std=c++17 -O2 -Wall
 # Meta puzzle solutions expose only a judge entrypoint (no main) — those are compiled with -c.
 
 CXX="${CXX:-g++}"
 CXXFLAGS=(-std=c++17 -O2 -Wall -Wextra)
 ROOT="$(pwd)"
 
-if [[ ! -d coding ]]; then
-  echo "coding/ not found (run from repo root)" >&2
+if [[ ! -d src/coding ]]; then
+  echo "src/coding/ not found (run from repo root)" >&2
   exit 1
 fi
 
-mapfile -t files < <(find coding -type f -name '*.cpp' | sort)
+mapfile -t files < <(find src/coding -type f -name '*.cpp' | sort)
 if [[ ${#files[@]} -eq 0 ]]; then
-  echo "No .cpp files under coding/" >&2
+  echo "No .cpp files under src/coding/" >&2
   exit 1
 fi
 

@@ -7,8 +7,6 @@ C++17 **competitive programming** reference — algorithm templates plus **solve
 | [reference/](reference/) | Handbook-style templates (graphs, DP, strings, math, data structures) |
 | [solved/](solved/) | Accepted solutions by platform (`{platform}/{slug}.cpp`) |
 
-**Sibling:** [`behavioral`](../behavioral/).
-
 ## Reference topics
 
 Handbook-style templates aligned with Competitive Programmer's Handbook / CP-Algorithms staples:
@@ -52,7 +50,7 @@ Handbook-style templates aligned with Competitive Programmer's Handbook / CP-Alg
 
 ## Compile
 
-Every `.cpp` under `coding/` (flags from this README):
+Every `.cpp` under `src/coding/` (flags from this README):
 
 ```bash
 # Local / CI (Docker)
@@ -66,8 +64,8 @@ docker run problem-solving-coding
 Single file:
 
 ```bash
-g++ -std=c++17 -O2 -Wall reference/graphs/shortest-path.cpp
-g++ -std=c++17 -O2 solved/hacker-cup/2021-qualification-consistency-a1.cpp
+g++ -std=c++17 -O2 -Wall src/coding/reference/graphs/shortest-path.cpp
+g++ -std=c++17 -O2 src/coding/solved/hacker-cup/2021-qualification-consistency-a1.cpp
 ```
 
-Format: `clang-format -i **/*.cpp`
+Format: `clang-format -i src/coding/**/*.cpp`
