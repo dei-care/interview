@@ -60,5 +60,4 @@ Theme tables, example prompts, and story anchors live in [`domains/`](domains/RE
 - [Question → story matrix](prep/question-story-matrix.md)
 - [Question batches (EN/PT)](prep/question-batches.md)
 - [Work experience index](../work-experience/README.md)
-- [System design hub](https://github.com/<OWNER>/system-design)
 - [Interview prep hub](../../README.md)

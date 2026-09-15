@@ -239,5 +239,4 @@ Reduce customer friction and support volume by making SDK onboarding intuitive a
 ## 🔗 Related
 
 - [Work experience index](./README.md)
-- [System design hub](https://github.com/<OWNER>/system-design)
 - [Interview prep hub](../../README.md)
